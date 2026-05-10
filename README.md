@@ -30,18 +30,15 @@ I am a dedicated **Cloud & DevOps Engineer** focused on building scalable, autom
 ---
 
 ### 📊 Engineering Impact
-*   **Azure Infrastructure**: Experienced in deploying applications within the Azure ecosystem.
+*   **AWS**: Experienced in deploying applications within the AWS ecosystem.
 *   **Automation**: Developed a **Linux Log Analyzer** using `grep`, `awk`, and `sed` for automated data extraction.
-*   **Containerization**: Skilled in managing Docker environments and Kubernetes Pods[cite: 1].
-*   **Continuous Learning**: Completed the Azure Administrator (AZ-104) and GitHub for DevOps certifications[cite: 1].
+*   **Containerization**: Skilled in managing Docker environments and Kubernetes Pods.
+*   **Continuous Learning**: Completed the Azure Administrator (AZ-104) and GitHub for DevOps certifications.
 
 ---
 
 ### 📈 GitHub Ecosystem
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasnainbanusi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainbanusi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainbanusi&theme=tokyonight&hide_border=true" />
