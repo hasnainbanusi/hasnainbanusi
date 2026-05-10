@@ -1,28 +1,60 @@
-<h1 align="center">Hi 👋, I'm Hasnain Ahmad Khan</h1>
-<h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
+# 💫 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnainbanusi&label=Profile%20views&color=0e75b6&style=flat" alt="hasnainbanusi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnainbanusi" alt="hasnainbanusi" /></a> </p>
-
-- 🌱 I’m currently learning **Shell Scripting from TWS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hasnainbanusi](https://github.com/hasnainbanusi)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/hasnainbanusi/](https://www.linkedin.com/in/hasnainbanusi/)
-
-- ⚡ Fun fact **I have to do Everything**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hasnainbanusi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnainbanusi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hasnain;Cloud+%26+DevOps+Engineer;Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainbanusi&show_icons=true&locale=en&layout=compact" alt="hasnainbanusi" /></p>
+### 👨‍💻 Professional Summary
+I am a dedicated **Cloud & DevOps Engineer** focused on building scalable, automated, and secure infrastructure. I bridge the gap between development and operations by leveraging modern cloud ecosystems and containerization strategies.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainbanusi&show_icons=true&locale=en" alt="hasnainbanusi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainbanusi&" alt="hasnainbanusi" /></p>
+### 🚀 Technical Arsenal
+
+<p align="left">
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <!-- Containers -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <!-- OS & Languages -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- Networking -->
+  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+### 📊 Engineering Impact
+*   **Azure Infrastructure**: Experienced in deploying applications within the Azure ecosystem.
+*   **Automation**: Developed a **Linux Log Analyzer** using `grep`, `awk`, and `sed` for automated data extraction.
+*   **Containerization**: Skilled in managing Docker environments and Kubernetes Pods[cite: 1].
+*   **Continuous Learning**: Completed the Azure Administrator (AZ-104) and GitHub for DevOps certifications[cite: 1].
+
+---
+
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasnainbanusi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainbanusi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainbanusi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnain" height="30" width="40" /></a>
+<a href="https://youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hasnain" height="30" width="40" /></a>
+</p>
+
+<p align="right">
+  <i>Based in Pakistan 🇵🇰</i>
+</p>
