@@ -39,10 +39,13 @@ I am a dedicated **Cloud & DevOps Engineer** focused on building scalable, autom
 
 ### 📈 GitHub Ecosystem
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hasnainbanusi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-<p align="center">
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainbanusi&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
@@ -50,6 +53,8 @@ I am a dedicated **Cloud & DevOps Engineer** focused on building scalable, autom
 <p align="left">
 <a href="https://linkedin.com/in/hasnainbanusi" target="blank" color="black"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnain" height="30" width="40" />Hasnain Ahmad Khan</a>
 </p>
+
+✍️ Random Dev Quote  <p>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <p/>
 
 <H2 align="right">
   <i>Based in Pakistan </i>
