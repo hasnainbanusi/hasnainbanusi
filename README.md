@@ -51,10 +51,9 @@ I am a dedicated **Cloud & DevOps Engineer** focused on building scalable, autom
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnain" height="30" width="40" /></a>
-<a href="https://youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hasnain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasnainbanusi" target="blank" color="black"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnain" height="30" width="40" />Hasnain Ahmad Khan</a>
 </p>
 
-<p align="right">
-  <i>Based in Pakistan 🇵🇰</i>
-</p>
+<H2 align="right">
+  <i>Based in Pakistan </i>
+</H2>
